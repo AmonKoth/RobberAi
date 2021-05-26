@@ -2,7 +2,7 @@ Player moves with W-A-S-D keys and runs with the shift key
 If the project cannot load try disabling the addblocker since they can interrupt the loading process
 
 Use this link to open the project:
-amonkoth.github.io/RobberAi/index.html
+amonkoth.github.io/RobberAi/
 
 This project is about making a simple ai that responds to its environment.
 The player is a cop and the ai agents are robbers.
